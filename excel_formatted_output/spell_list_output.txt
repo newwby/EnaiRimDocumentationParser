@@ -1,0 +1,225 @@
+Alarm	Alteration	0	Novice	 For 120 seconds, alerts you when an enemy crosses the 150 foot perimeter.	n/a	n/a	
+Longstride	Alteration	0	Novice	 While concentrating, grants 20% movement speed and 25 carry weight, tripled when out of combat.	n/a	n/a	
+Prepare for Adventure	Alteration	0	Novice	 Creates a set of basic enchanted mage items (robes, circlet, boots, Destruction staff) in your inventory for 180 seconds.	n/a	n/a	
+Drop Zone	Alteration	25	Apprentice	 Creates a ring of cushioning magic at the target location. The caster takes no damage when falling into the ring.	n/a	n/a	
+Ocato's Recital	Alteration	25	Apprentice	 Stores the (beneficial self-targeted non-concentration) spell in your left hand and casts it for no cost whenever you enter combat. Up to 3 spells. Empty left hand to reset.	n/a	n/a	
+Perilous Path	Alteration	25	Apprentice	 Lay down a spike barrier that lasts 10 seconds and randomly staggers enemies moving through the spikes.	n/a	n/a	
+Raise Wall	Alteration	25	Apprentice	 Concentrate to summon a wall from the earth that blocks passage.	n/a	n/a	
+Reynos' Fins	Alteration	25	Apprentice	 You swim 100% faster for 60 seconds.	n/a	n/a	
+Wither	Alteration	25	Apprentice	 Reduces a target's movement speed and attack damage by 5% each second for 20 seconds.	n/a	n/a	
+Locate Object	Alteration	50	Adept	 Illuminates the nearest ore vein, gold, container, door, key, soul gem, written text, potion, gem, ingot or equipment of your choice for 20 seconds.	n/a	n/a	
+Spell Twine	Alteration	50	Adept	 Bind a chosen effect to the spell in your left hand. It is triggered whenever the spell is cast. Up to 3 spells. Empty left hand to reset.	n/a	n/a	
+Strength of Earth	Alteration	50	Adept	 Concentrate to deal 40% more attack damage with your other hand. Release after attacking to stagger nearby foes.	n/a	n/a	
+Tharn's Prison	Alteration	50	Adept	 Target humanoid is trapped in a cage of force. Lasts up to 10 seconds, but has 5% chance per second to break.	n/a	n/a	
+Thundering Hooves	Alteration	50	Adept	 For 180 seconds, your mount is X% faster, regenerates Stamina and can swim upwards to run on water. Nearby allies riding a mount within 30 feet also benefit.	n/a	n/a	
+Undermine	Alteration	50	Adept	 For 30 seconds, shifting earth causes the target to lose its balance when swinging a melee weapon, staggering the target and draining 30 points of Stamina.	n/a	n/a	
+Deep Storage	Alteration	75	Expert	 Grants access to an infinite underground storage space.	n/a	n/a	
+Detonate Lock	Alteration	75	Expert	 Open a lock with a level 25 points or more below your Alteration skill with a shockwave that may alert others.	n/a	n/a	
+Entomb	Alteration	75	Expert	 Buries a target permanently, or frees a buried target. Only one victim may be buried at a time.	n/a	n/a	
+Fabricate Object	Alteration	75	Expert	 The caster creates a bridge, bed or crafting station of his or her choice. The object disappears after 120 seconds or when entering combat.	n/a	n/a	
+Knowledge is Power	Alteration	75	Expert	 Copies the (non-concentration) spell in your left hand, granting a power that casts this spell once a day for no cost. Empty left hand to reset.	n/a	n/a	
+Tumble Magnet	Alteration	75	Expert	 Magnetic artifact that exists for 20 seconds, randomly pulling nearby enemies to the center.	n/a	n/a	
+Acceleration Rune	Alteration	100	Master	 Cast on a nearby surface, launches enemies in the direction they are moving.	n/a	n/a	
+Battletide	Alteration	100	Master	 Steals 80 points of armor rating from each nearby target for 30 seconds. The caster gains the total amount stolen.	n/a	n/a	
+Control Weather	Alteration	100	Master	 Temporarily summon the weather of your choice.	n/a	n/a	
+Hethoth's Grimoire	Alteration	100	Master	 Creates a hovering spell tome of the (projectile, non-concentration) spell in your left hand. It repeatedly casts the spell in the direction you are facing for 30 seconds.	n/a	n/a	
+Malviser's Gauntlet	Alteration	100	Master	 Holds a target helplessly in front of the caster with telekinetic force until slain or for 10 seconds.	n/a	n/a	
+Milestones	Alteration	100	Master	 Place up to 5 teleportation anchors and teleport freely between them.	n/a	n/a	
+Sotha's Maelstrom	Alteration	100	Master	 Emit radiation that reduces the magic resistance of nearby enemies within 20 feet by 5% per second, up to 100%. Lasts 120 seconds.	n/a	n/a	
+Talons of Nirn	Alteration	100	Master	 Whenever an enemy in the area is staggered, a spike of rock erupts from the ground, tossing the target and dealing 150 Stamina damage. Lasts 60 seconds.	n/a	n/a	
+Thrumming Stone	Alteration	100	Master	 Magical vibrating rock that emits a tremor every 8 seconds, staggering enemies and reducing magic resistance by 40% for 2 seconds. Emits 5 pulses.	n/a	n/a	
+Wind Running	Alteration	100	Master	 Grants the ability to sprint across thin air and immunity to fall damage for 30 seconds.	n/a	n/a	
+Azure Reconstruction	Conjuration	0	Novice	 Expend 15 Stamina per second to heal a damaged conjured minion 20 points per second.	n/a	n/a	
+Conjure Avenging Wraith	Conjuration	0	Novice	 Summons an Avenging Wraith for 30 seconds. Its stats are equal to 150% of those of the opponent that last killed it.	n/a	n/a	
+Consuming Power	Conjuration	0	Novice	 Allied summoned or reanimated minion gains 75% extra attack damage for 10 seconds, then dies.	n/a	n/a	
+Atronach Mark	Conjuration	25	Apprentice	 Marks a target for 10 seconds. The mark detonates when struck by a summoned or reanimated minion, dealing magic damage equal to 15% of the target's Health.	n/a	n/a	
+Conjure Cat Totem	Conjuration	25	Apprentice	 Summons a Nordic totem spirit for 60 seconds. It changes between warrior and cat form to heal. (Max. 1)	n/a	n/a	
+Conjure Deadeye Captain	Conjuration	25	Apprentice	 Summons a Deadeye Captain for 60 seconds. Activate a corpse to store it. Activate the Captain to dredge it up.	n/a	n/a	
+Conjure Dremora Churl	Conjuration	25	Apprentice	 Summons a Dremora Churl for 60 seconds. When killed, a Dremora Churl is summoned under control of the killer.	n/a	n/a	
+Power of the Master	Conjuration	25	Apprentice	 Casts the (beneficial self-targeted) spell in your left hand on all nearby summoned or reanimated minions.	n/a	n/a	
+Soul Cloak	Conjuration	25	Apprentice	 For 120 seconds, nearby hostile targets fill a soul gem on death.	n/a	n/a	
+Conjure Dremora Pit Fighter	Conjuration	50	Adept	 Summons a Dremora Pit Fighter for 60 seconds. It gains 25% extra damage for each nearby enemy.	n/a	n/a	
+Conjure Lich	Conjuration	50	Adept	 Summons a Lich for 60 seconds. Costs 500 points of charge from an equipped enchanted weapon to cast.	n/a	n/a	
+Conjure Xivilai Sorcerer	Conjuration	50	Adept	 Summons a Xivilai Sorcerer for 60 seconds. The caster takes 50 points of fire damage.	n/a	n/a	
+Corpse Explosion	Conjuration	50	Adept	 Violently releases the soul of a corpse, disintegrating it with a magical explosion that deals damage equal to 40% of the corpse's maximum Health.	n/a	n/a	
+Daedric Crescent	Conjuration	50	Adept	 Binds a Daedric Crescent to a summoned Dremora or humanoid for 120 seconds. Until discharged, the weapon deals 50 magic damage and staggers targets.	n/a	n/a	
+Summoning Rune	Conjuration	50	Adept	 Cast on a nearby surface, teleports an opponent in front of you when triggered.	n/a	n/a	
+Conjure Dremora Champion	Conjuration	75	Expert	 Summons a Dremora Champion for 60 seconds. Its power attacks deal bonus damage and knock targets airborne.	n/a	n/a	
+Conjure Dremora Honor Guard	Conjuration	75	Expert	 Summons a Dremora Honor Guard for 60 seconds. It reduces enemy magic resistance within 15 feet by 25%.	n/a	n/a	
+Conjure Dremora Mentor	Conjuration	75	Expert	 Choose a magic school and summon a Dremora Mentor for 90 seconds. It does not fight, but offers training in the chosen school and the school improves 20% faster.	n/a	n/a	
+Conjure Herne	Conjuration	75	Expert	 Summons a Herne for 60 seconds. It is accompanied by 3 Spirit Wolves under its command.	n/a	n/a	
+Conjure Xivilai Lord	Conjuration	75	Expert	 Summons a Xivilai Lord for 60 seconds. When summoned, drains all Magicka and has 200% of this amount.	n/a	n/a	
+Oathbound Guardian	Conjuration	75	Expert	 Living ally is protected by an Oathbound Guardian under his or her command for 60 seconds.	n/a	n/a	
+Banish Living	Conjuration	100	Master	 Banish a living creature to Oblivion. Items (except quest items) are lost forever.	n/a	n/a	
+Conjure Battlemage	Conjuration	100	Master	 Call upon the services of a lower ranking Battlemage for 180 seconds. Activate to purchase permanent upgrades.	n/a	n/a	
+Conjure Bear Totem	Conjuration	100	Master	 Summons a Nordic totem spirit for 240 seconds. It changes between hunter and bear form to heal. (Max. 1)	n/a	n/a	
+Conjure Craftlord	Conjuration	100	Master	 Calls a Dwemer sage to Nirn for 180 seconds. Modify its stats with the Reconfigure Craftlord spell.	n/a	n/a	
+Conjure Dremora Assassin	Conjuration	100	Master	 Summons a Dremora Assassin for 180 seconds. Its arrows reduce targets below 250 Health to 1 for 10 seconds.	n/a	n/a	
+Conjure Kyrkrim	Conjuration	100	Master	 Summons the daedric wolf mount Kyrkrim for 180 seconds. When ridden, low level creatures and people flee in terror.	n/a	n/a	
+Conjure Lord of Bindings	Conjuration	100	Master	 Summons a Lord of Bindings for 180 seconds. It does not fight, but rapidly summons Churls in combat.	n/a	n/a	
+Conjure Nether Lich	Conjuration	100	Master	 Summons a Nether Lich for 180 seconds. It inflicts a damaging disease, lowers skill levels and raises the dead.	n/a	n/a	
+Conjure Weeping Daedra	Conjuration	100	Master	 Summons a Weeping Daedra for 120 seconds. It steals large amounts of Health with its magical attacks, but turns to inert and brittle stone when an enemy looks at it.	n/a	n/a	
+Necrowitch	Conjuration	100	Master	 Summons the corpse of an ancient sorceress to reanimate for 600 seconds and teaches her the (ranged, touch or cloak) elemental spell in your left hand.	n/a	n/a	
+Crackle	Destruction	0	Novice	 Does 10 damage to Health and Magicka. A static cloud follows the target, dealing up to 50 damage.	n/a	n/a	
+Hailstone	Destruction	0	Novice	 An ice crystal that shatters for 15 frost damage to Health and Stamina. Direct hits bypass Frost Resist.	n/a	n/a	
+Unbound Fire	Destruction	0	Novice	 Bolt of wildfire that deals 10 damage. The flames randomly jump to the target or caster, dealing 25 damage.	n/a	n/a	
+Creeping Cold	Destruction	25	Apprentice	 Deals 10 frost damage per second to Health and Stamina. After 6 seconds, freezes the target for 60 damage.	n/a	n/a	
+Dragon's Teeth	Destruction	25	Apprentice	 Ignites all targets, doing 5 damage for 4 seconds. On death, the ground burns for 15 damage per second.	n/a	n/a	
+Fracture	Destruction	25	Apprentice	 A layer of thin ice deals 5 damage to Health and Stamina for 3 seconds. The ice shatters for 35 damage when struck by a different frost spell.	n/a	n/a	
+Inferno	Destruction	25	Apprentice	 Attunes the caster to fire, equipping the Ember Bolt spell for up to 15 seconds. It deals 40 fire damage.	n/a	n/a	
+Rift Bolt	Destruction	25	Apprentice	 Deals 20 shock damage to Health and half of that to Magicka and teleports the target backwards.	n/a	n/a	
+Thundercrack	Destruction	25	Apprentice	 Deafening close range blast that deals 40 points of shock damage to Health and half of that to Magicka.	n/a	n/a	
+Bolide	Destruction	50	Adept	 Meteoric rock that deals 25 fire damage. It heats up as it travels, dealing up to x5 damage based on distance.	n/a	n/a	
+Electrosphere	Destruction	50	Adept	 Slow moving ball lightning that strikes for 55 damage to Health and Magicka.	n/a	n/a	
+Frost Nova	Destruction	50	Adept	 Radial frost explosion that deals 30 damage to Health and Stamina. Closer targets take up to x2 damage.	n/a	n/a	
+Ice Shiv	Destruction	50	Adept	 Jagged shard that deals 30 frost damage to Health and Stamina. Targets hit from behind take x3 damage.	n/a	n/a	
+Incendiary Flow	Destruction	50	Adept	 Creates a molten stream as it passes near terrain, dealing 20 fire damage for 10 seconds.	n/a	n/a	
+Scattershock	Destruction	50	Adept	 A stream of charged bolts that deal 30 damage to Health and half of that to Magicka per second.	n/a	n/a	
+Bombardment	Destruction	75	Expert	 A steady stream of exploding projectiles that deal 50 points of damage per second.	n/a	n/a	
+Lightning Strike	Destruction	75	Expert	 Lightning strikes the target location, dealing 60 shock damage to Health and half to Stamina.	n/a	n/a	
+Scorching Hands	Destruction	75	Expert	 Blasts targets in melee range, dealing 80 points of fire damage per second.	n/a	n/a	
+Shattering Crystal	Destruction	75	Expert	 Creates a crystal of ice. Cast again to detonate the crystal for up to 270 damage to Health and Stamina, decreasing with distance.	n/a	n/a	
+Shock Nova	Destruction	75	Expert	 Radial shockwave that deals 40 damage to Health and Magicka. Those along the edge take up to x2 damage.	n/a	n/a	
+Sleet Storm	Destruction	75	Expert	 A rapid stream of ice shards that deal 60 damage to Health and Stamina per second.	n/a	n/a	
+Apocalypse	Destruction	100	Master	 Target is assaulted by elemental entities that appear nearby and cast x4 damage Flames, Frostbite and Sparks spells. Lasts 10 seconds.	n/a	n/a	
+Cyclonic Rift	Destruction	100	Master	 Creates a storm portal for 20 seconds. If two portals are active, those approaching either get warped across and take 50 shock damage to Health and Magicka.	n/a	n/a	
+Fingers of the Mountain	Destruction	100	Master	 Electrifies nearby opponents for 30 seconds. When hit by a shock spell, lightning strikes for 120 damage to Health and half of that to Magicka. Only works outdoors.	n/a	n/a	
+Flamestrike	Destruction	100	Master	 A storm of 24 meteoric fireballs rains down from the heavens in a line extending from the caster, each exploding for 160 fire damage. Only works outdoors.	n/a	n/a	
+Forbidden Sun	Destruction	100	Master	 Giant ball of elemental fire that deals 100 points of damage in a wide area on impact. Targets struck lose 200 points of Fire Resist for 4 seconds.	n/a	n/a	
+Frozen Orb	Destruction	100	Master	 Spinning orb that slowly travels to the target location and hovers there for 3 seconds, spraying ice spikes for 180 frost damage to Health and Stamina.	n/a	n/a	
+Howling Blast	Destruction	100	Master	 Casts a jet of icy wind that deals 45 damage per second to Health and Stamina. Targets caught in the stream lose 50 points of Frost Resist.	n/a	n/a	
+Static Dome	Destruction	100	Master	 Shock globe that does 25 shock damage to Health and half to Magicka and reduces Shock Resist by 50 points.	n/a	n/a	
+Twister	Destruction	100	Master	 Creates a tornado at the target location. A direct hit sucks up a target, dealing 40 frost damage for 10 seconds. Nearby targets take half damage. Only works outdoors.	n/a	n/a	
+Volcano	Destruction	100	Master	 Creates a volcanic eruption at the target location that spits out 8 lava bombs per second for 10 seconds, each dealing 40 fire damage.	n/a	n/a	
+Dispel Magic	Illusion	0	Novice	 Dispels all magical effects (except diseases) on friends and foes.	n/a	n/a	
+Ghostwalk	Illusion	0	Novice	 Caster is invisible for 10 seconds or until broken, then teleports back to where the spell was cast.	n/a	n/a	
+Pale Shadow	Illusion	0	Novice	 Target enemy is attacked by its own image for 10 seconds. It deals the same damage but has 1 Health.	n/a	n/a	
+Backlash	Illusion	25	Apprentice	 Interrupts target spellcaster. If a spell is interrupted, the target is hit by their own offensive spells, while non-offensive spells are cast on you.	n/a	n/a	
+Curse of the Silent	Illusion	25	Apprentice	 Drains 8 points of Magicka per second for 30 seconds or until the target successfully casts a spell.	n/a	n/a	
+Illusory Flames	Illusion	25	Apprentice	 Concentrate to deal 30% of their current Health as temporary damage that wears off after 2 seconds.	n/a	n/a	
+Mind Vision	Illusion	25	Apprentice	 See through the eyes of target creature or humanoid for 10 seconds. Sheathe to cancel.	n/a	n/a	
+Shared Trauma	Illusion	25	Apprentice	 For 10 seconds, when target creature or humanoid loses Health, the previous target loses the same amount.	n/a	n/a	
+Thoughtsteal	Illusion	25	Apprentice	 Equip the spells the target has equipped. Lasts for 120 seconds or until unequipped.	n/a	n/a	
+Blood for Blood	Illusion	50	Adept	 Cast on a corpse, summons the anguish of its death as an avenging force to reduce the Health of the killer to 1.	n/a	n/a	
+Compelling Whispers	Illusion	50	Adept	 Concentrate for 5 seconds to force creatures or people to fight for the caster for 60 seconds.	n/a	n/a	
+Evil Twin	Illusion	50	Adept	 While concentrating, manifests illusions of nearby enemies to attack them. Illusions take extra damage from attacks.	n/a	n/a	
+Figment of Pain	Illusion	50	Adept	 Creates an immobile illusion linked to the target for 20 seconds. Damage felt by either is felt by both.	n/a	n/a	
+Illusory Pyre	Illusion	50	Adept	 Illusory explosion deals 25% of their current Health as temporary damage that wears off after 15 seconds.	n/a	n/a	
+Shadowbond	Illusion	50	Adept	 Caster and target gain invisibility for 20 seconds. When the invisibility is broken, the caster and target swap places.	n/a	n/a	
+Empathic Agony	Illusion	75	Expert	 For 45 seconds, when the caster loses Health, target creatures or people lose 40% of this amount.	n/a	n/a	
+Enslave the Weak	Illusion	75	Expert	 Forces a hostile humanoid below 20% Health to serve your will permanently until slain. You can only have one slave at a time. Does not work on quest characters.	n/a	n/a	
+Mimic's Cloak	Illusion	75	Expert	 For 60 seconds, the caster copies most (non-concentration) spells cast by others within 20 foot.	n/a	n/a	
+Mind Control	Illusion	75	Expert	 Take control of a humanoid for 30 seconds. In combat, the target will fight back when attacked. The caster cannot act, but can cast spells. Sheathe to cancel.	n/a	n/a	
+Seidstone	Illusion	75	Expert	 The stone manifests illusions of nearby dead for 40 seconds. Illusions take extra damage from attacks.	n/a	n/a	
+Vanish	Illusion	75	Expert	 All nearby opponents targeting the caster or searching for the caster leave combat.	n/a	n/a	
+Harrowing Dirge	Illusion	100	Master	 When a cursed creature or humanoid dies, all other cursed targets take unresistable damage equal to 20% of their maximum Health. Lasts 40 seconds.	n/a	n/a	
+Hidden Cobra	Illusion	100	Master	 Curses a target for 60 seconds. The curse reduces Health to 1 if the target leaves combat for 5 seconds.	n/a	n/a	
+Last Word	Illusion	100	Master	 Interrupts target spellcaster. If a spell is interrupted, any other Illusion spells cast on the target within 10 seconds last four times longer and are twice as powerful.	n/a	n/a	
+Magicka Void	Illusion	100	Master	 Reduces the Health percentage of all targets to match their Magicka percentage.	n/a	n/a	
+Mirror Entity	Illusion	100	Master	 Control an illusion of target humanoid for 20 seconds. In combat, the illusion will attack opponents in range. The caster cannot act, but can cast spells. Sheathe to cancel.	n/a	n/a	
+Pull From Eternity	Illusion	100	Master	 Cast on a corpse to capture its ghost. Cast on a target to release the ghost to attack the target for 40 seconds. The ghost takes less damage from attacks.	n/a	n/a	
+Scream of Pain	Illusion	100	Master	 Lowers the Health percentage of nearby creatures and humanoids to the caster's Health percentage. The lost Health is restored after 20 seconds.	n/a	n/a	
+Shroudwalk	Illusion	100	Master	 You are invisible for 90 seconds. When performing an action that breaks invisibility, you immediately regain invisibility, up to 5 times.	n/a	n/a	
+Spectral Warband	Illusion	100	Master	 Manifests illusions of all allies in combat for 60 seconds. Illusions take extra damage from attacks.	n/a	n/a	
+Wyrd	Illusion	100	Master	 The hand of fate chooses a random nearby target. It takes 20% of its current Health for each nearby target as temporary damage that wears off after 30 seconds.	n/a	n/a	
+Bone Spirit	Restoration	0	Novice	 Casts a vengeful spirit that homes in on the target and explodes for 50 points of magic damage to undead.	n/a	n/a	
+Circle of Strength	Restoration	0	Novice	 Steals 6 points of Stamina per second from hostiles inside the circle.	n/a	n/a	
+Wild Healing	Restoration	0	Novice	 Heals the caster 40 points, then heals a random target within range 40 points.	n/a	n/a	
+Lamb of Mara	Restoration	25	Apprentice	 For 30 seconds, you gain 35% of the Health the target loses.	n/a	n/a	
+Leech Seed	Restoration	25	Apprentice	 Infests a living target with a poison spore for 10 seconds. When the caster falls below full Health, the spore absorbs 5 points of Health per second.	n/a	n/a	
+Mystic Wind	Restoration	25	Apprentice	 For 10 seconds, restores 5 points of Magicka per second while the caster is sprinting.	n/a	n/a	
+Necroplague	Restoration	25	Apprentice	 Infects a corpse with a spreading virus that deals 9 disease damage for 30 seconds to nonmechanical foes.	n/a	n/a	
+Slay Living	Restoration	25	Apprentice	 Kills a living target in melee range with 25% or less remaining health.	n/a	n/a	
+Welling Blood	Restoration	25	Apprentice	 Curses a living target. If the target loses at least 60% of its maximum Health within 8 seconds, it dies.	n/a	n/a	
+Circle of the Moons	Restoration	50	Adept	 Steals 8 points of Magicka per second from hostiles inside the circle.	n/a	n/a	
+Finger of Death	Restoration	50	Adept	 Blast of death magic that damages a living target equal to its Health but the caster takes 125% damage. If this would kill the caster, damage to the target is reduced.	n/a	n/a	
+Horrid Wilting	Restoration	50	Adept	 Desiccates nonmechanical targets, inflicting 12 disease damage per second for 10 seconds.	n/a	n/a	
+Ruin	Restoration	50	Adept	 Weakens an enemy, reducing all skills by 15 points for 120 seconds.	n/a	n/a	
+Sealed Resolve	Restoration	50	Adept	 Places a seal upon the caster for 15 seconds. Losing 50% of your current Health unlocks the seal, halving incoming damage for its remaining duration.	n/a	n/a	
+Tree Rings	Restoration	50	Adept	 Caster receives 10 layers of tough plant skin, each increasing maximum Health by 15 points. Layers gradually fall off over the course of 30 seconds.	n/a	n/a	
+Blood Boil	Restoration	75	Expert	 Concentrate to summon whirling blood that harms foes within 15 feet and the caster. Deals 25 magic damage per second to enemies and 20 to the caster.	n/a	n/a	
+Channel Energies	Restoration	75	Expert	 Casts the (beneficial self-targeted) spell in your left hand on the target.	n/a	n/a	
+Decompose	Restoration	75	Expert	 Curses a nonmechanical target for 60 seconds, allowing allies within 10 feet of the target to absorb 15 points of Health per second from the target.	n/a	n/a	
+Healing Blossom	Restoration	75	Expert	 Activates 10 seconds after casting and lasts 10 seconds. The blossom heals the caster 30 points per second.	n/a	n/a	
+Nature's Balance	Restoration	75	Expert	 Swaps the Health percentages of the caster and a living target.	n/a	n/a	
+Resurgence	Restoration	75	Expert	 For 15 seconds, heals 20 points per second when the caster falls below 50% Health.	n/a	n/a	
+Bloodseeker	Restoration	100	Master	 Casts a homing flare at a target. When it reaches the target, it heals or deals magic damage equal to 175% of the Health the target gained or lost while it was in flight.	n/a	n/a	
+Breath of Arkay	Restoration	100	Master	 Accumulate 50 points of divine energy per second while concentrating. After you stop concentrating, the energy is converted into healing.	n/a	n/a	
+Circle of Death	Restoration	100	Master	 Circle instantly kills living targets below 40% Health.	n/a	n/a	
+Dust to Dust	Restoration	100	Master	 Destroys all undead below 40% health.	n/a	n/a	
+Godform	Restoration	100	Master	 Divine energy replenishes up to 15 points of Magicka per second when Health is above 50%. The higher your Health, the faster it replenishes. Lasts 120 seconds.	n/a	n/a	
+Infinite Light	Restoration	100	Master	 Stream of healing energy that diffracts between targets, healing 150 points per second.	n/a	n/a	
+King's Heart	Restoration	100	Master	 A holy spark slowly follows the caster for 60 seconds. When it is nearby, it fortifies most skills by 15% and heals 15 points per second.	n/a	n/a	
+Life's Finale	Restoration	100	Master	 Corrupts nearby nonmechanical targets and the caster for 20 seconds. The corruption deals 100 disease damage per second to others and 75 to the caster.	n/a	n/a	
+Meridia's Wrath	Restoration	100	Master	 Attunes the caster to light, equipping the Starstorm spell for up to 100 seconds. This spell deals 30 damage per second to undead while the caster concentrates.	n/a	n/a	
+Worm Shroud	Restoration	100	Master	 For X seconds, destroys corpses within 20 feet, improving Restoration spells by 5% for 30 seconds. This effect refreshes and stacks up to 10 times.	n/a	n/a	
+Call Raven	Conjuration	0	Novice	Concentrate to summon a Raven. It blinds living targets, reducing weapon skills by 40 points.	 Druid	Bothela (Markarth), Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove)	
+Call Rattlesnakes	Conjuration	25	Apprentice	Concentrate to summon 2 Rattlesnakes. Their attacks deal 2 poison damage per second.	 Druid	Bothela (Markarth), Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove)	
+Call Gray Wolf	Conjuration	50	Adept	Concentrate to summon a Gray Wolf. Its attacks cause living targets below 20% Health to rapidly bleed out.	 Druid	Bothela (Markarth), Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove)	
+Call Snow Leopard	Conjuration	75	Expert	Concentrate to summon a Snow Leopard. Its attacks drain 40 points of Stamina and it moves faster in combat.	 Druid	Bothela (Markarth), Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove)	
+Call Hound of Hircine	Conjuration	100	Master	Concentrate to summon a Hound of Hircine. Its attacks reduce armor by 250 points for 10 seconds.	 Druid	Bothela (Markarth), Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove)	
+Druidcraft	Alteration	0	Novice	Nature reclaims target corpse, destroying it and growing a random plant that can be harvested.	 Druid	Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove), Froki (The Rift)	
+Force of Nature	Alteration	25	Apprentice	Assume the form of a Horned Lord for 60 seconds. It uses melee attacks and can cast the caster's other equipped spell. Its power attacks steal Magicka.	 Druid	Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove), Froki (The Rift)	
+Wildshape	Alteration	50	Adept	Assume the form of a Deer while sprinting out of combat, moving 30% faster, for 60 seconds.	 Druid	Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove), Froki (The Rift)	
+Impenetrable Grove	Alteration	75	Expert	Raise a wall of trees where the caster points, blocking passage for 30 seconds.	 Druid	Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove), Froki (The Rift)	
+Chase the Horizon	Alteration	100	Master	Transports the caster and nearby allies in a 30 foot circle to a target location within 600 feet.	 Druid	Danica Pure-Spring (Whiterun), Dravynea the Stoneweaver (Kynesgrove), Froki (The Rift)	
+Spirit of the Oak	Restoration	0	Novice	Spirit grants caster and living allies 20 points of Health for 60 seconds.	 Druid	Bothela (Markarth), Edla (Skaal Village), Froki (The Rift)	
+Parasitic Growth	Restoration	25	Apprentice	Plant growth deals 1 bleed and poison damage for 15 seconds. On death, sprouts a Goodberry.	 Druid	Bothela (Markarth), Edla (Skaal Village), Froki (The Rift)	
+Spirit of Thornbriar	Restoration	50	Adept	Spirit retaliates with 1 bleed and poison damage for 8 seconds whenever the caster or a living ally is struck in melee for 60 seconds.	 Druid	Bothela (Markarth), Edla (Skaal Village), Froki (The Rift)	
+Bramble Growth	Restoration	75	Expert	Bed of brambles that deals 10 bleed and poison damage for 15 seconds. On death, sprouts a Goodberry.	 Druid	Bothela (Markarth), Edla (Skaal Village), Froki (The Rift)	
+Spirit of the Sun	Restoration	100	Master	Spirit heals caster and living allies 20 points per second for 120 seconds.	 Druid	Bothela (Markarth), Edla (Skaal Village), Froki (The Rift)	
+Shadow Stride	Alteration	0	Novice	Move 15% faster in combat for 60 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Enthir (Winterhold), Gulum-Ei (Solitude), Neloth (Tel Mithryn)	
+Step Through Shadows	Alteration	25	Apprentice	Dash to a target up to 150 feet away, reducing armor by 100 points for 10 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Enthir (Winterhold), Gulum-Ei (Solitude), Neloth (Tel Mithryn)	
+Shadow Dance	Alteration	50	Adept	Able to perform a 20 foot dash for 10 Magicka by jumping, if the path is clear. Lasts 60 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Enthir (Winterhold), Gulum-Ei (Solitude), Neloth (Tel Mithryn)	
+Pull Through Shadows	Alteration	75	Expert	Pull targets up to 150 feet away to the caster, reducing armor by 100 points for 10 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Enthir (Winterhold), Gulum-Ei (Solitude), Neloth (Tel Mithryn)	
+Night Gate	Alteration	100	Master	Deploy two shadow portals on walkable terrain, allowing passage in both directions within 100 feet.	 Shadow Mage	Babette (Dark Brotherhood), Enthir (Winterhold), Gulum-Ei (Solitude), Neloth (Tel Mithryn)	
+Draining Touch	Destruction	0	Novice	Absorbs 3 points of Health and Magicka per second from the target for 30 seconds.	 Shadow Mage	Enthir (Winterhold), Farengar Secret-Fire (Whiterun), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Azra's Wrath	Destruction	25	Apprentice	Shockwave of shadow energy that converts 50% of your Magicka into magic damage. (X damage)	 Shadow Mage	Enthir (Winterhold), Farengar Secret-Fire (Whiterun), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Nightblade	Destruction	50	Adept	Able to melee attack from up to 50 feet to perform a dash attack, converting 50% of your Magicka into bonus magic damage on hit. Lasts 60 seconds. (X damage)	 Shadow Mage	Enthir (Winterhold), Farengar Secret-Fire (Whiterun), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Draining Shroud	Destruction	75	Expert	Absorbs 15 points of Health and Magicka per second from nearby enemies for 60 seconds.	 Shadow Mage	Enthir (Winterhold), Farengar Secret-Fire (Whiterun), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Draining Mist	Destruction	100	Master	Shadow infused mist that absorbs 25 points of Health and Magicka per second for 60 seconds.	 Shadow Mage	Enthir (Winterhold), Farengar Secret-Fire (Whiterun), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Gather Shadows	Illusion	0	Novice	Your melee attacks and Shadow Mage spells are up to 50% stronger in darkness. Lasts 60 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Gulum-Ei (Solitude), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Darkness	Illusion	25	Apprentice	Creates a 10 foot source of darkness that sticks where it strikes for 60 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Gulum-Ei (Solitude), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Reveal Secrets	Illusion	50	Adept	Illuminates nearby containers, doors and keys within 75 feet for 60 seconds.	 Shadow Mage	Babette (Dark Brotherhood), Gulum-Ei (Solitude), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Possession	Illusion	75	Expert	Target up to level 40 refuses to die upon taking fatal damage within 30 seconds, fighting for the caster in a frenzy with 40% more damage.	 Shadow Mage	Babette (Dark Brotherhood), Gulum-Ei (Solitude), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Nightfall	Illusion	100	Master	A pool of darkness follows the caster for 60 seconds, and the caster gains all known Shadow Mage buffs.	 Shadow Mage	Babette (Dark Brotherhood), Gulum-Ei (Solitude), Nelacar (Winterhold), Neloth (Tel Mithryn)	
+Eldritch Blast	Destruction	0	Novice	Warping blast that deals 20 raw damage. If the target dies, bind their Spirit for 30 seconds.	 Warlock	Atub (Largashbur), Neloth (Tel Mithryn), Wuunferth the Unliving (Windhelm)	
+Balefire	Destruction	25	Apprentice	Corrupting fire deals 15 magic damage and burns for 2 poison damage for 10 seconds. Targets are 30% weaker to warlock minions.	 Warlock	Atub (Largashbur), Neloth (Tel Mithryn), Wuunferth the Unliving (Windhelm)	
+Witch Bolt	Destruction	50	Adept	Bolt of dark fire that deals 3 raw damage for 60 seconds. If the target dies, bind their Spirit for 30 seconds.	 Warlock	Atub (Largashbur), Neloth (Tel Mithryn), Wuunferth the Unliving (Windhelm)	
+Cloudkill	Destruction	75	Expert	Corrupting blast deals 50 magic damage and leaves a 20 poison damage cloud. Targets in the cloud are 30% weaker to warlock minions.	 Warlock	Atub (Largashbur), Neloth (Tel Mithryn), Wuunferth the Unliving (Windhelm)	
+Hurl Into Oblivion	Destruction	100	Master	Deals 60 raw damage and flings survivors into Oblivion until the spell is cast again. If a target dies, bind their Spirit for 30 seconds.	 Warlock	Atub (Largashbur), Neloth (Tel Mithryn), Wuunferth the Unliving (Windhelm)	
+Conjure Gremlin	Conjuration	0	Novice	Summon a Gremlin for 60 seconds. If a Spirit is offered, gains 40% chance to disarm targets.	 Warlock	Falion (Morthal), Sybille Stentor (Solitude), Wuunferth the Unliving (Windhelm)	
+Conjure Temple Grim	Conjuration	25	Apprentice	Summon a Temple Grim for 60 seconds. If a Spirit is offered, its attacks interrupt and feed on spellcasting.	 Warlock	Falion (Morthal), Sybille Stentor (Solitude), Wuunferth the Unliving (Windhelm)	
+Conjure Ravagor	Conjuration	50	Adept	Summon a Ravagor for 60 seconds. If a Spirit is offered, gains an 8 point per second vampiric cloak.	 Warlock	Falion (Morthal), Sybille Stentor (Solitude), Wuunferth the Unliving (Windhelm)	
+Conjure Magister	Conjuration	75	Expert	Summon a Magister for 60 seconds. If a Spirit is offered, it regenerates 25 Magicka per second.	 Warlock	Falion (Morthal), Sybille Stentor (Solitude), Wuunferth the Unliving (Windhelm)	
+Conjure Leviathan	Conjuration	100	Master	Summon a Leviathan for 180 seconds. If a Spirit is offered, its attacks immobilize and bleed targets.	 Warlock	Falion (Morthal), Sybille Stentor (Solitude), Wuunferth the Unliving (Windhelm)	
+Weaken	Illusion	0	Novice	Creatures and people are cursed for 30 seconds. Their attack damage is reduced by 20%.	 Warlock	Atub (Largashbur), Falion (Morthal), Sybille Stentor (Solitude)	
+Frailty	Illusion	25	Apprentice	Creatures and people are cursed for 30 seconds. Their armor is reduced by 150 points.	 Warlock	Atub (Largashbur), Falion (Morthal), Sybille Stentor (Solitude)	
+Iron Maiden	Illusion	50	Adept	Creatures and people are cursed for 30 seconds. Deals 25 damage each time they attack or cast a spell.	 Warlock	Atub (Largashbur), Falion (Morthal), Sybille Stentor (Solitude)	
+Life Tap	Illusion	75	Expert	Creatures and people are cursed for 30 seconds. Melee attacks against them absorb 40 Health.	 Warlock	Atub (Largashbur), Falion (Morthal), Sybille Stentor (Solitude)	
+Decrepify	Illusion	100	Master	Creatures and people are cursed for 60 seconds. They suffer 50% reduced weapon speed, 20% slowed movement and lose 50 Stamina per second.	 Warlock	Atub (Largashbur), Falion (Morthal), Sybille Stentor (Solitude)	
+Aid	Restoration	0	Novice	Living or undead ally gets a 30 point bonus to all skill levels while you concentrate.	 Cleric	Hamal (Markarth), Maramal (Riften), Rorlund (Solitude), Runil (Falkreath)	
+Aura of Might	Restoration	25	Apprentice	Caster and living or undead allies deal 40% more attack damage. Release for a 20 fire and sun damage burst.	 Cleric	Hamal (Markarth), Maramal (Riften), Rorlund (Solitude), Runil (Falkreath)	
+Aura of Vigor	Restoration	50	Adept	Caster and living or undead allies heal 15 points per second. Release for 2 seconds of invulnerability.	 Cleric	Hamal (Markarth), Maramal (Riften), Rorlund (Solitude), Runil (Falkreath)	
+Aura of Thorns	Restoration	75	Expert	Caster and living or undead allies reflect 50 fire and sun damage in melee. Release to heal 100 points.	 Cleric	Hamal (Markarth), Maramal (Riften), Rorlund (Solitude), Runil (Falkreath)	
+Mass Immortality	Restoration	100	Master	Nearby living or undead allies get unlimited Health regeneration for 30 seconds.	 Cleric	Hamal (Markarth), Maramal (Riften), Rorlund (Solitude), Runil (Falkreath)	
+Solar Ray	Destruction	0	Novice	Thin beam of light that deals 6 points of fire and sun damage per second.	 Cleric	Florentius Baenius (Dawnguard), Rorlund (Solitude), Runil (Falkreath)	
+Holy Fire	Destruction	25	Apprentice	Enchant your power attacks for 60 seconds to deal 10 fire and sun damage.	 Cleric	Florentius Baenius (Dawnguard), Rorlund (Solitude), Runil (Falkreath)	
+Consecrated Ground	Destruction	50	Adept	Sanctify the battlefield, dealing 6 fire and sun damage for 30 seconds.	 Cleric	Florentius Baenius (Dawnguard), Rorlund (Solitude), Runil (Falkreath)	
+Holy Shock	Destruction	75	Expert	Enchant your power attacks for 60 seconds to deal 30 shock and sun damage.	 Cleric	Florentius Baenius (Dawnguard), Rorlund (Solitude), Runil (Falkreath)	
+Storm of Vengeance	Destruction	100	Master	Storm of holy fury that deals 8 fire, shock and sun damage per second to all enemies for 30 seconds.	 Cleric	Florentius Baenius (Dawnguard), Rorlund (Solitude), Runil (Falkreath)	
+Suggestion	Illusion	0	Novice	Creatures and people up to level 10 obey simple commands for 30 seconds, but not in combat.	 Cleric	Florentius Baenius (Dawnguard), Hamal (Markarth), Maramal (Riften)	
+Exile	Illusion	25	Apprentice	Target up to level 15 is hidden from this world for 15 seconds.	 Cleric	Florentius Baenius (Dawnguard), Hamal (Markarth), Maramal (Riften)	
+Spirit Guardian	Illusion	50	Adept	Manifest the idealized spirit of your race for 7200 seconds. Can use and carry equipment and will obey orders.	 Cleric	Florentius Baenius (Dawnguard), Hamal (Markarth), Maramal (Riften)	
+Obedience	Illusion	75	Expert	Creatures and people up to level 24 fight for you for 60 seconds, and obey orders when not in combat.	 Cleric	Florentius Baenius (Dawnguard), Hamal (Markarth), Maramal (Riften)	
+Exodus	Illusion	100	Master	All nearby up to level 40, except your follower, are hidden from this world for 60 seconds.	 Cleric	Florentius Baenius (Dawnguard), Hamal (Markarth), Maramal (Riften)	
+Create Water Totem	Conjuration	0	Novice	Create a Totem for 60 seconds that heals 5 points of Health and Magicka per second and cures disease.	 Shaman	Bolar (Narzulbur), Majni (Frostmoon Crag), Nura Snow-Shod (Riften), Sharamph (Mor Khazgur)	
+Create Tree Totem	Conjuration	25	Apprentice	Create a Totem for 60 seconds that deals 10 poison damage per second to nearby enemies in combat.	 Shaman	Bolar (Narzulbur), Majni (Frostmoon Crag), Nura Snow-Shod (Riften), Sharamph (Mor Khazgur)	
+Summon Wind Fylgja	Conjuration	50	Adept	Control a Wind Fylgja for 120 seconds, leaving your body behind. Can cast Winter's Howl and Crystalize. Sheathe to cancel. Costs 5 Magicka per second.	 Shaman	Bolar (Narzulbur), Majni (Frostmoon Crag), Nura Snow-Shod (Riften), Sharamph (Mor Khazgur)	
+Create Earth Totem	Conjuration	75	Expert	Create a Totem for 60 seconds that casts 120 damage tremors every 7 seconds in combat.	 Shaman	Bolar (Narzulbur), Majni (Frostmoon Crag), Nura Snow-Shod (Riften), Sharamph (Mor Khazgur)	
+Summon Sun Fylgja	Conjuration	100	Master	Control a Sun Fylgja for 240 seconds, leaving your body behind. Can cast Sun Flare and Grand Healing. Sheathe to cancel. Costs 15 Magicka per second.	 Shaman	Bolar (Narzulbur), Majni (Frostmoon Crag), Nura Snow-Shod (Riften), Sharamph (Mor Khazgur)	
+Eye of the All-Maker	Alteration	0	Novice	Survey the area from a distance for 30 seconds. Sheathe to cancel. Costs 2 Magicka per second.	 Shaman	Baldor Iron-Shaper (Skaal Village), Jora (Windhelm), Murbul (Dushnikh Yal), Sharamph (Mor Khazgur)	
+Stave of Ferocity	Alteration	25	Apprentice	Enchant your power attacks for 60 seconds. Reduces armor by 150 points and magic resist by 25%.	 Shaman	Baldor Iron-Shaper (Skaal Village), Jora (Windhelm), Murbul (Dushnikh Yal), Sharamph (Mor Khazgur)	
+Fissure	Alteration	50	Adept	Invoke the Bones of the land to raise a solid wall of rock for 15 seconds, knocking down targets in its path.	 Shaman	Baldor Iron-Shaper (Skaal Village), Jora (Windhelm), Murbul (Dushnikh Yal), Sharamph (Mor Khazgur)	
+Stave of Binding	Alteration	75	Expert	Enchant your power attacks for 60 seconds. Immobilizes targets with 25% chance to disarm.	 Shaman	Baldor Iron-Shaper (Skaal Village), Jora (Windhelm), Murbul (Dushnikh Yal), Sharamph (Mor Khazgur)	
+Sacred Hearth	Alteration	100	Master	Consecrate the area as your Hearth. Recast to temporarily recall to the Hearth in spirit form, returning after 120 seconds or by activating the Hearth.	 Shaman	Baldor Iron-Shaper (Skaal Village), Jora (Windhelm), Murbul (Dushnikh Yal), Sharamph (Mor Khazgur)	
